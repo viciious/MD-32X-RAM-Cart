@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BA6162
+D Reset IC with battery backup function, SOP-8
+K BMS
+$ENDCMP
+#
+$CMP smd_cart_connector_edge
+D Pinout for cartridge's edge connector
+$ENDCMP
+#
+$CMP smd_cart_connector_slot
+D Pinout for cartridge's edge connector
+$ENDCMP
+#
+#End Doc Library
