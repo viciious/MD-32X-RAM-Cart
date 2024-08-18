@@ -1,0 +1,13 @@
+*.elf
+*.map
+*.o
+*.zip
+*.xdelta
+*.iso
+*.cue
+*.elf
+.github
+.vscode
+.cd
+cd
+CDROMPlayer.bin

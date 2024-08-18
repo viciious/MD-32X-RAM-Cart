@@ -1,0 +1,4 @@
+        .text
+
+        .align  4
+
