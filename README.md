@@ -4,6 +4,10 @@ A 4MiB RAM cart design for the Sega Genesis/Megadrive and the 32X.
 
 ![img](https://github.com/viciious/MD-32X-RAM-Cart/blob/master/4m_cy62167e_x2.png)
 
+![img](https://github.com/viciious/MD-32X-RAM-Cart/blob/master/front.jpg)
+
+![img](https://github.com/viciious/MD-32X-RAM-Cart/blob/master/back.jpg)
+
 Currently only works as MD RAM cart as reading data from the 32X causes data corruption.
 
 Based on the original design by Tiido.
